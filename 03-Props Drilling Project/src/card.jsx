@@ -36,7 +36,7 @@ const Card = ({ logo, company, posted, role, team, tags, salary, location }) => 
             <BriefcaseBusiness size={16} />
             {salary}
           </p>
-          <p>
+          <p>04
             <MapPin size={16} />
             {location}
           </p>
