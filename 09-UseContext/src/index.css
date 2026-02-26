@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f1f5f9;
+  color: #0f172a;
+}
+
+.app {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 0 16px;
+}
+
+.box {
+  background: #ffffff;
+  border: 1px solid #dbeafe;
+  border-radius: 10px;
+  padding: 16px;
+  margin-top: 12px;
+}
+
+input {
+  width: 100%;
+  max-width: 280px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #94a3b8;
+  margin-top: 8px;
+}
